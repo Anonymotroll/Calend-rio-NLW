@@ -1,5 +1,5 @@
 # Projeto NLW Copa - Calendário
-[!preview](./assets/bg-NLW-Calendario.png)
+![preview](./assets/bg-NLW-Calendario.png)
 
 Projeto construído durante o evento Next Level Week da Rocketseat.
 
